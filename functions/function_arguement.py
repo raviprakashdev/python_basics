@@ -1,6 +1,6 @@
 #required arguement
 def my_func1(c):
-    print("I am from:" ,c)
+    print("I am from:",c)
 my_func1("usa")
 
 #keyword arguement
