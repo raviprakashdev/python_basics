@@ -1,0 +1,27 @@
+while True:
+
+print("Enter 'x' for exit.")
+
+print("Enter any 3 numbers to find average: ")
+
+n1 = input()
+
+n2 = input()
+
+n3 = input()
+
+if n1 == 'x':
+
+break
+
+else:
+
+number1 = int(n1)
+
+number2 = int(n2)
+
+number3 = int(n3)
+
+sum = number1 + number2 + number3
+
+average = sum/3
